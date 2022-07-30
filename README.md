@@ -3,15 +3,15 @@ An application made to secure important files using encryption and decryption by
 
 If you want to use in your desktop-
 
-1. Install Netbeans,XAMP
+Step 1. Install Netbeans,XAMP.
 
-2. Import the security folder in Netbeans.
+Step 2. Import the security folder in Netbeans.
 
-3. In libraries folder add SQL Jar file (present in Security folder).
+Step 3. In libraries folder add SQL Jar file (present in Security folder).
 
-4. Run XAMP and start Apache and My SQL.
+Step 4. Run XAMP and start Apache and My SQL.
 
-5. Now run the Application.
+Step 5. Now run the Application.
 
 ![1](https://user-images.githubusercontent.com/45159091/181964313-cf5bf774-b40e-4a08-9b93-5f1559229229.png)
 
