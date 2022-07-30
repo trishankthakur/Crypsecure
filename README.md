@@ -13,7 +13,8 @@ Step 4. Run XAMP and start Apache and My SQL.
 
 Step 5. Now run the Application.
 
-![1](https://user-images.githubusercontent.com/45159091/181964313-cf5bf774-b40e-4a08-9b93-5f1559229229.png)
+![1](https://user-images.githubusercontent.com/45159091/181970307-0ecc824d-2e96-4813-a0bb-cb8536e3c542.png)
+
 
 ![2](https://user-images.githubusercontent.com/45159091/181964359-e07c8b1c-96cf-4ecf-afd5-e028499387eb.png)
 
